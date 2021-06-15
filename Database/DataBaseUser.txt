@@ -1,0 +1,3 @@
+{"name":"Safura Singh","rollNo":1705213035,"age":23,"address":"Lucknow","subject":["A","B","C","D"]}
+{"name":"Aashi Singh","rollNo":1705213001,"age":23,"address":"Lucknow","subject":["A","B","C","D"]}
+{"name":"Aashi Singh","rollNo":1705213063,"age":23,"address":"Lucknow","subject":["A","B","C","D"]}
