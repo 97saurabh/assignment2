@@ -1,5 +1,0 @@
-{"name":"Saurabh Singh","rollNo":1705213039,"age":25,"address":"35/5 Shyam","subject":["A","B","C","D"]}
-{"name":"Safura Singh","rollNo":1705213035,"age":23,"address":"Lucknow","subject":["A","B","C","D"]}
-{"name":"Aashi Singh","rollNo":1705213001,"age":23,"address":"Lucknow","subject":["A","B","C","D"]}
-{"name":"Aashi Singh","rollNo":1705213063,"age":23,"address":"Lucknow","subject":["A","B","C","D"]}
-{"name":"Abhishek Agrwal","rollNo":1705213003,"age":23,"address":"Lucknow","subject":["A","B","C","D"]}

@@ -1,17 +1,15 @@
-import 'Utills/Utillty.dart';
+import 'dart:developer';
+import 'IOUtility.dart';
+import 'Services/services.dart';
+import 'records_utility.dart';
+
 main(List<String> args) {
 
-  Map<int,Map<String,dynamic>> data = UtilityIO.getDatabaseData();
+  // fetch records from File
+  RecordServices.readFile();
+
+  //Input out utility
+  IOUtility.InputUtility();
   
-  String choice = UtilityIO.InputUtility(data);
-
-  switch(choice){
-    case 'yes': 
-                UtilityIO.setDatabaseData(data);
-                break;
-    default:  print(".......Recent updates not stored............");
-  }
-
-  print("Thanks, for being our customer");  
-
+    
 }

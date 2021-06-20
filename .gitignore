@@ -1,6 +1,2 @@
-.dart_tool
 .packages
-Letters.txt
-pubspec.lock
-test.dart
-testing.dart
+.dart_tool
