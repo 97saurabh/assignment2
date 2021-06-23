@@ -6,4 +6,4 @@ environment:
 dependencies:
   io: ^1.0.0  #Input Out operation form cmd
   json_serializable: ^4.1.3  # convert json data to object and object to json
-  
+  test: ^1.17.8
